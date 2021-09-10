@@ -1,4 +1,4 @@
-# Alura Challange BI
+# Alura Challenge BI
 
 ## Semana 1
 
